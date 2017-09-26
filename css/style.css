@@ -1,0 +1,19 @@
+body {
+			background-color: #262626;
+			margin: 0;
+			padding: 0;
+		}
+		.imageCenter {
+			width: 100%;
+			height: 100%
+			margin: 0 auto;
+		}
+
+a{
+	color: white;
+	font-size: 15px;
+	margin-left: 40%;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+
+}		
